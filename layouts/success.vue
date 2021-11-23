@@ -1,3 +1,5 @@
 <template>
-  <div class="success-page"></div>
+  <div class="success-page">
+    <Nuxt />
+  </div>
 </template>
